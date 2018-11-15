@@ -2,7 +2,7 @@
 
 Create Model, Controller with resource and migration at a time
 
-# php artisan make:model Todo -mcr
+# php artisan make:model FireRatingResistance -mcr
 
 # php artisan make:request StoreFireRatingResistance
 
