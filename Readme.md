@@ -13,3 +13,11 @@ Create Model, Controller with resource and migration at a time
 -r, --resource Indicates if the generated controller should be a resource controller
 
 # if you run php artisan make:model --help you can see all the available options
+
+
+
+#find and Kill
+
+sudo lsof -i tcp:3000 
+
+kill -9 <PID>
