@@ -21,3 +21,8 @@ Create Model, Controller with resource and migration at a time
 sudo lsof -i tcp:3000 
 
 kill -9 <PID>
+
+
+#New Pc Laravel Project upload
+
+deleted the public/storage folder and run php artisan storage:link command again otherwise image that upload not show at all form laravel storage.
